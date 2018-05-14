@@ -1,11 +1,34 @@
 public class WhileLoop {
     public static void main(String[] args) {
         //While Loop
-        int myVaraible = 1;
+//        int myVariable = 1;
+//
+//        while(myVariable <= 10) {
+//            System.out.println(myVariable);
+//            myVariable++;
+//        }
+//        System.out.println("I am out of Loop");
 
-        System.out.println(myVaraible);
-        myVaraible ++;
-        System.out.println(myVaraible);
+         // Do While Loop
+
+        int myVariable = 1;
+
+        do {
+            System.out.println(myVariable);
+             myVariable++;
+
+        }while (myVariable <= 10);
+
+        System.out.println("I am out of Loop");
+
+
+
+
+
+
+
+
+
 
     }
 }
