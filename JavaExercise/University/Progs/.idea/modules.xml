@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CompareTwoNumbers/CompareTwoNumbers.iml" filepath="$PROJECT_DIR$/CompareTwoNumbers/CompareTwoNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EvenNumbers/EvenNumbers.iml" filepath="$PROJECT_DIR$/EvenNumbers/EvenNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LargestOfThree/LargestOfThree.iml" filepath="$PROJECT_DIR$/LargestOfThree/LargestOfThree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeapYear/LeapYear.iml" filepath="$PROJECT_DIR$/LeapYear/LeapYear.iml" />
       <module fileurl="file://$PROJECT_DIR$/Progs.iml" filepath="$PROJECT_DIR$/Progs.iml" />
     </modules>
   </component>
