@@ -14,26 +14,7 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="EvenNumbers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EvenNumbers/src/EvenNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LeapYear.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeapYear/src/LeapYear.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -49,22 +30,29 @@
         <option value="$PROJECT_DIR$/CompareTwoNumbers/src/CompareTwoNums.java" />
         <option value="$PROJECT_DIR$/EvenNumbers/src/EvenNumbers.java" />
         <option value="$PROJECT_DIR$/LeapYear/src/LeapYear.java" />
+        <option value="$PROJECT_DIR$/LargestOfThree/src/LargetOfThree.java" />
+        <option value="$PROJECT_DIR$/FahrenheitToCelsius/src/FahrenheitToCelsius.java" />
+        <option value="$PROJECT_DIR$/Factorial/src/Factorial.java" />
+        <option value="$PROJECT_DIR$/PatternA/src/PatternA.java" />
+        <option value="$PROJECT_DIR$/RandomNumbs/src/RandomNumbs.java" />
+        <option value="$PROJECT_DIR$/GradeGreeting/src/GradeGreeting.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-14" />
-    <option name="width" value="1940" />
-    <option name="height" value="1010" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1098" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -75,7 +63,17 @@
             <path>
               <item name="Progs" type="b2602c69:ProjectViewProjectNode" />
               <item name="Progs" type="462c0819:PsiDirectoryNode" />
-              <item name="LeapYear" type="462c0819:PsiDirectoryNode" />
+              <item name="GradeGreeting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Progs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Progs" type="462c0819:PsiDirectoryNode" />
+              <item name="PatternA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Progs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Progs" type="462c0819:PsiDirectoryNode" />
+              <item name="RandomNumbs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Progs" type="b2602c69:ProjectViewProjectNode" />
@@ -106,25 +104,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LeapYear">
-    <configuration name="AddTwoNumsUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AddTwoNumsUser" />
-      <module name="Progs" />
+  <component name="RunManager" selected="Application.GradeGreeting">
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Factorial" />
+      <module name="Factorial" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="CompareTwoNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CompareTwoNums" />
-      <module name="CompareTwoNumbers" />
+    <configuration name="FahrenheitToCelsius" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FahrenheitToCelsius" />
+      <module name="FahrenheitToCelsius" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="EvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EvenNumbers" />
-      <module name="EvenNumbers" />
+    <configuration name="GradeGreeting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GradeGreeting" />
+      <module name="GradeGreeting" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeapYear" />
-      <module name="LeapYear" />
+    <configuration name="PatternA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PatternA" />
+      <module name="PatternA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="RandomNumbs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomNumbs" />
+      <module name="RandomNumbs" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -169,17 +172,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.AddTwoNumsUser" />
-      <item itemvalue="Application.CompareTwoNums" />
-      <item itemvalue="Application.EvenNumbers" />
-      <item itemvalue="Application.LeapYear" />
+      <item itemvalue="Application.FahrenheitToCelsius" />
+      <item itemvalue="Application.Factorial" />
+      <item itemvalue="Application.PatternA" />
+      <item itemvalue="Application.RandomNumbs" />
+      <item itemvalue="Application.GradeGreeting" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LeapYear" />
-        <item itemvalue="Application.EvenNumbers" />
-        <item itemvalue="Application.CompareTwoNums" />
-        <item itemvalue="Application.AddTwoNumsUser" />
+        <item itemvalue="Application.GradeGreeting" />
+        <item itemvalue="Application.RandomNumbs" />
+        <item itemvalue="Application.PatternA" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.FahrenheitToCelsius" />
       </list>
     </recent_temporary>
   </component>
@@ -197,22 +202,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="0" width="1552" height="808" extended-state="1" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32965517" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32941177" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.45179856" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41045752" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25032508" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25065103" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -230,7 +235,47 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Factorial/src/Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RandomNumbs/src/RandomNumbs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LargestOfThree/src/LargetOfThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FahrenheitToCelsius/src/FahrenheitToCelsius.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Factorial/src/Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CompareTwoNumbers/src/CompareTwoNums.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -270,6 +315,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LargestOfThree/src/LargetOfThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FahrenheitToCelsius/src/FahrenheitToCelsius.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PatternA/src/PatternA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GradeGreeting/src/GradeGreeting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="11" column="56" lean-forward="true" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RandomNumbs/src/RandomNumbs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Factorial/src/Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
         </state>
       </provider>
     </entry>

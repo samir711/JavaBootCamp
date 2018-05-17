@@ -4,9 +4,14 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CompareTwoNumbers/CompareTwoNumbers.iml" filepath="$PROJECT_DIR$/CompareTwoNumbers/CompareTwoNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/EvenNumbers/EvenNumbers.iml" filepath="$PROJECT_DIR$/EvenNumbers/EvenNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factorial/Factorial.iml" filepath="$PROJECT_DIR$/Factorial/Factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FahrenheitToCelsius/FahrenheitToCelsius.iml" filepath="$PROJECT_DIR$/FahrenheitToCelsius/FahrenheitToCelsius.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GradeGreeting/GradeGreeting.iml" filepath="$PROJECT_DIR$/GradeGreeting/GradeGreeting.iml" />
       <module fileurl="file://$PROJECT_DIR$/LargestOfThree/LargestOfThree.iml" filepath="$PROJECT_DIR$/LargestOfThree/LargestOfThree.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeapYear/LeapYear.iml" filepath="$PROJECT_DIR$/LeapYear/LeapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatternA/PatternA.iml" filepath="$PROJECT_DIR$/PatternA/PatternA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Progs.iml" filepath="$PROJECT_DIR$/Progs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RandomNumbs/RandomNumbs.iml" filepath="$PROJECT_DIR$/RandomNumbs/RandomNumbs.iml" />
     </modules>
   </component>
 </project>

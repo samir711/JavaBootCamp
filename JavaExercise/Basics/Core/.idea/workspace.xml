@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="567e5404-082c-43c3-ae03-9b8d4c31a28e" name="Default" comment="" />
+    <list default="true" id="567e5404-082c-43c3-ae03-9b8d4c31a28e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/ArrayExercise/ArrayExercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayExercise/src/ArrayExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayListSamples/ArrayListSamples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayListSamples/src/ArrayListSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayType/ArrayType.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayType/src/ArrayType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Methods/Methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Methods/src/Methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../University/Progs/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../University/Progs/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../University/Progs/out/production/Progs/AddTwoNumsUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../University/Progs/out/production/Progs/AddTwoNumsUser.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,20 +32,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WhileLoop.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/While/src/WhileLoop.java">
+      <file leaf-file-name="ArrayType.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ArrayType/src/ArrayType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="405">
+              <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ForLoop.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ForLoop/src/ForLoop.java">
+      <file leaf-file-name="ArrayListSample.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ArrayListSamples/src/ArrayListSample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="43" lean-forward="true" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+            <state relative-caret-position="216">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -62,14 +76,18 @@
         <option value="$PROJECT_DIR$/src/Variables.java" />
         <option value="$PROJECT_DIR$/While/src/WhileLoop.java" />
         <option value="$PROJECT_DIR$/ForLoop/src/ForLoop.java" />
+        <option value="$PROJECT_DIR$/ArrayType/src/ArrayType.java" />
+        <option value="$PROJECT_DIR$/ArrayExercise/src/ArrayExercise.java" />
+        <option value="$PROJECT_DIR$/Methods/src/Methods.java" />
+        <option value="$PROJECT_DIR$/ArrayListSamples/src/ArrayListSample.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="y" value="1" />
-    <option name="width" value="1933" />
-    <option name="height" value="1035" />
+    <option name="x" value="-10" />
+    <option name="y" value="2" />
+    <option name="width" value="3022" />
+    <option name="height" value="1606" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -77,6 +95,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -87,18 +108,12 @@
             <path>
               <item name="Core" type="b2602c69:ProjectViewProjectNode" />
               <item name="Core" type="462c0819:PsiDirectoryNode" />
-              <item name="ForLoop" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayListSamples" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Core" type="b2602c69:ProjectViewProjectNode" />
               <item name="Core" type="462c0819:PsiDirectoryNode" />
               <item name="While" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Core" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Core" type="462c0819:PsiDirectoryNode" />
-              <item name="While" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Core" type="b2602c69:ProjectViewProjectNode" />
@@ -108,9 +123,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -132,25 +144,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ForLoop">
+  <component name="RunManager" selected="Application.Methods">
+    <configuration name="ArrayExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayExercise" />
+      <module name="ArrayExercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="ArrayType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayType" />
+      <module name="ArrayType" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
     <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ForLoop" />
       <module name="ForLoop" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="IfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IfElse" />
-      <module name="IFElse" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="Logical" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Logical" />
-      <module name="Logical" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Switch" />
-      <module name="Switch" />
+    <configuration name="Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods" />
+      <module name="Methods" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -200,19 +212,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Logical" />
-      <item itemvalue="Application.IfElse" />
-      <item itemvalue="Application.Switch" />
       <item itemvalue="Application.WhileLoop" />
       <item itemvalue="Application.ForLoop" />
+      <item itemvalue="Application.ArrayType" />
+      <item itemvalue="Application.ArrayExercise" />
+      <item itemvalue="Application.Methods" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Methods" />
+        <item itemvalue="Application.ArrayExercise" />
+        <item itemvalue="Application.ArrayType" />
         <item itemvalue="Application.ForLoop" />
         <item itemvalue="Application.WhileLoop" />
-        <item itemvalue="Application.Switch" />
-        <item itemvalue="Application.IfElse" />
-        <item itemvalue="Application.Logical" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +257,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-5" y="1" width="1546" height="828" extended-state="0" />
+    <frame x="-5" y="1" width="1511" height="803" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -255,18 +268,18 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37246376" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.54545456" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25065273" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25651303" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -286,6 +299,20 @@
     <option name="LAST_COMMIT_MESSAGE" value="firstCommit" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/While/src/WhileLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ForLoop/src/ForLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="43" lean-forward="true" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Switch/src/Switch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -440,6 +467,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ForLoop/src/ForLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/While/src/WhileLoop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -447,10 +481,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ForLoop/src/ForLoop.java">
+    <entry file="file://$PROJECT_DIR$/ArrayExercise/src/ArrayExercise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="43" lean-forward="true" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+        <state relative-caret-position="13">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Methods/src/Methods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArrayType/src/ArrayType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArrayListSamples/src/ArrayListSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
