@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="567e5404-082c-43c3-ae03-9b8d4c31a28e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/ArrayListAdv/ArrayListAdv.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayListAdv/src/ArrayListAdv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassDemo/ClassDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassDemo/src/BankApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassDemo/src/BankUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassDemo/src/SbiUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntellijShortCut" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayListSamples/src/ArrayListSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayListSamples/src/ArrayListSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects/Todo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects/Todo/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,20 +32,55 @@
       <file leaf-file-name="ArrayType.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ArrayType/src/ArrayType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+            <state relative-caret-position="162">
+              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayListSample.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ArrayListSamples/src/ArrayListSample.java">
+      <file leaf-file-name="BankApp.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ClassDemo/src/BankApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="-214">
+              <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
               <folding>
-                <element signature="e#286#294#0" expanded="true" />
+                <element signature="e#244#245#0" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
+                <element signature="e#318#319#0" expanded="true" />
+                <element signature="e#337#338#0" expanded="true" />
+                <element signature="e#414#415#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BankUser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ClassDemo/src/BankUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SbiUser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ClassDemo/src/SbiUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+              <folding>
+                <element signature="e#100#101#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntellijShortCut" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IntellijShortCut">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -72,14 +115,19 @@
         <option value="$PROJECT_DIR$/ArrayExercise/src/ArrayExercise.java" />
         <option value="$PROJECT_DIR$/Methods/src/Methods.java" />
         <option value="$PROJECT_DIR$/ArrayListSamples/src/ArrayListSample.java" />
+        <option value="$PROJECT_DIR$/ArrayListAdv/src/ArrayListAdv.java" />
+        <option value="$PROJECT_DIR$/ClassDemo/src/ClassDemo.java" />
+        <option value="$PROJECT_DIR$/IntellijShortCut" />
+        <option value="$PROJECT_DIR$/ClassDemo/src/BankApp.java" />
+        <option value="$PROJECT_DIR$/ClassDemo/src/SbiUser.java" />
+        <option value="$PROJECT_DIR$/ClassDemo/src/BankUser.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="y" value="1" />
-    <option name="width" value="1889" />
-    <option name="height" value="1004" />
+    <option name="x" value="-8" />
+    <option name="width" value="1890" />
+    <option name="height" value="1005" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -89,10 +137,24 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
+            <path>
+              <item name="Core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core" type="462c0819:PsiDirectoryNode" />
+              <item name="ClassDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core" type="462c0819:PsiDirectoryNode" />
+              <item name="ClassDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
             <path>
               <item name="Core" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
@@ -101,6 +163,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -122,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayListSample">
+  <component name="RunManager" selected="Application.BankUser">
     <configuration name="ArrayExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayExercise" />
       <module name="ArrayExercise" />
@@ -138,9 +201,9 @@
       <module name="ArrayType" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForLoop" />
-      <module name="ForLoop" />
+    <configuration name="BankUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BankUser" />
+      <module name="ClassDemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -190,19 +253,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.ForLoop" />
       <item itemvalue="Application.ArrayType" />
       <item itemvalue="Application.ArrayExercise" />
       <item itemvalue="Application.Methods" />
       <item itemvalue="Application.ArrayListSample" />
+      <item itemvalue="Application.BankUser" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BankUser" />
         <item itemvalue="Application.ArrayListSample" />
         <item itemvalue="Application.Methods" />
         <item itemvalue="Application.ArrayExercise" />
         <item itemvalue="Application.ArrayType" />
-        <item itemvalue="Application.ForLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +320,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -284,6 +347,20 @@
     <option name="LAST_COMMIT_MESSAGE" value="Adding files 17-May-2018" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ArrayType/src/ArrayType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArrayListSamples/src/ArrayListSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/While/src/WhileLoop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
@@ -480,13 +557,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ArrayType/src/ArrayType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-100">
@@ -494,12 +564,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ArrayListAdv/src/ArrayListAdv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="39" />
+          <folding>
+            <element signature="e#157#165#0" expanded="true" />
+            <element signature="e#235#244#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ArrayListSamples/src/ArrayListSample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="461">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArrayType/src/ArrayType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntellijShortCut">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassDemo/src/SbiUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
           <folding>
-            <element signature="e#286#294#0" expanded="true" />
+            <element signature="e#100#101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassDemo/src/BankUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassDemo/src/BankApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-214">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
           </folding>
         </state>
       </provider>

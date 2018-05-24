@@ -1,0 +1,7 @@
+Default constructor
+
+Hight light class - Go to code - Generate
+ Select constructor in the opened pop up
+
+  if you select Code | Reformat Code from the main menu or
+   press Ctrl+Alt+L, CLion will try to reformat the source code
